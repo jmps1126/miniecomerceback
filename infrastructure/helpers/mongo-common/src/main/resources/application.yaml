@@ -1,0 +1,14 @@
+adapters:
+  mongodb:
+    database: IAS
+    username: root
+    password: admin
+    hostname: localhost
+    protocol: mongodb
+    port: 27017
+
+spring:
+  data:
+    mongodb:
+      uri:
+        mongodb://root:root@localhost:27017/IAS

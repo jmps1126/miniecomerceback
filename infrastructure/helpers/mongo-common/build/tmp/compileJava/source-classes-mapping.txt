@@ -1,0 +1,4 @@
+co/com/ias/model/MongoCredentials.java
+ co.com.ias.model.MongoCredentials
+co/com/ias/Config.java
+ co.com.ias.Config
