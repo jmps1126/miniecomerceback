@@ -1,0 +1,5 @@
+co/com/ias/model/product/gateway/IProductRepository.java
+ co.com.ias.model.product.gateway.IProductRepository
+co/com/ias/model/product/Product.java
+ co.com.ias.model.product.Product
+ co.com.ias.model.product.Product$ProductBuilder

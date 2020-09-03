@@ -6,7 +6,7 @@ import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 @Data
-@Document(collation = "product")
+@Document(collection = "product")
 @Builder(toBuilder = true)
 public class ProductData {
 
@@ -18,4 +18,5 @@ public class ProductData {
     private Double taxRate;
     private String productState;
     private Integer inventoryQuantity;
+
 }

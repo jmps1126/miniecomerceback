@@ -1,4 +1,5 @@
 dependencies {
     // https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-mongod
     compile 'org.springframework.boot:spring-boot-starter-data-mongodb'
+    compile 'org.reactivecommons.utils:object-mapper-api:0.1.0'
 }

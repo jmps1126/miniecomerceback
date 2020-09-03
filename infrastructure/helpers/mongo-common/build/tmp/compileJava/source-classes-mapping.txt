@@ -1,4 +1,2 @@
-co/com/ias/model/MongoCredentials.java
- co.com.ias.model.MongoCredentials
-co/com/ias/Config.java
- co.com.ias.Config
+co/com/ias/AdapterOperation.java
+ co.com.ias.AdapterOperation

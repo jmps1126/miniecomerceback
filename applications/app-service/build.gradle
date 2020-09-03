@@ -2,12 +2,13 @@ apply plugin: 'org.springframework.boot'
 
 dependencies {
 
-    implementation project(':model')
     implementation project(':usecase')
     implementation project(':mongo-repository')
+    implementation project(':api-rest')
 
-
+    compile 'org.reactivecommons.utils:object-mapper:0.1.0'
     compile 'org.springframework.boot:spring-boot-starter'
+    compile 'org.apache.tomcat:tomcat-jdbc:7.0.28'
     runtime('org.springframework.boot:spring-boot-devtools')
 }
 

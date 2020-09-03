@@ -1,2 +1,8 @@
+co/com/ias/config/CommonConfig.java
+ co.com.ias.config.CommonConfig
+co/com/ias/config/UseCaseConfig.java
+ co.com.ias.config.UseCaseConfig
+co/com/ias/config/MongoDbConfig.java
+ co.com.ias.config.MongoDbConfig
 co/com/ias/MainApplication.java
  co.com.ias.MainApplication

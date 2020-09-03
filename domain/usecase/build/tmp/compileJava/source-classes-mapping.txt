@@ -1,0 +1,2 @@
+co/com/ias/usecase/product/ProductUseCase.java
+ co.com.ias.usecase.product.ProductUseCase
